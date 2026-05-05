@@ -40,6 +40,7 @@ The Random Forest with undersampling and the CNN-based models achieved the stron
 ```
 final_project_machine_learning/
 ├── README.md
+├── requirements.txt                # Dependencies
 ├── REvoLUtionary_finalreport.pdf   # Full project report
 ├── preprocess.py                   # HS3D → donor/acceptor train/test TSVs
 ├── random_forest.py                # Random Forest models
