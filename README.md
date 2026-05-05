@@ -93,7 +93,7 @@ python cnn_bilstm_maxpool.py my_run 0.01 4 100 6 \
 
 Check the top of each script for full argument documentation.
 
-## Dependencies
+## Dependencies (`found in requirements.txt`)
 
 - Python 3.x
 - PyTorch
